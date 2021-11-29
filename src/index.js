@@ -1,4 +1,8 @@
 const sampleNumber = 1;
 const sampleNumberB = 2;
 
-console.log('Hello Word ${sampleNumber} ${sampleNumberB}');
+const sampleNumberC = 3;
+
+console.log("Hello Word ${sampleNumber} ${sampleNUmberB}${sampleNumberC}");
+
+
