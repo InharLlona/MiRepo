@@ -1,1 +1,7 @@
-console.log("Hello Word");
+
+const sampleNumber = 1;
+const sampleNumberC = 3;
+
+console.log("Hello Word ${sampleNumber}${sampleNumberC}");
+
+
